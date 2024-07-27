@@ -1,5 +1,6 @@
-# Filigree Findings - Improving Jewelry Sales Through Itemset Mining
 
+![Filigree_Banner](https://github.com/user-attachments/assets/36f52ead-9dfe-44e5-a682-ff1378df56e1)
+# Filigree Findings - Improving Jewelry Sales Through Itemset Mining
 A data mining and wrangling project that utilizes Frequent Itemset Mining to identify potential product bundles for a local jewelry business
 
 ## Authors
